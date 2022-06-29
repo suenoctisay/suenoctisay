@@ -6,8 +6,8 @@ Welcome to my GitHub. I'm Suelen and I'm a web developer.</h1>
 <h1>GitHub Status</h1>
 <div align="left"> 
   <a href="https://github.com/suenoctisay">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=suenoctisay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suenoctisay&layout=compact&langs_count=7&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=suenoctisay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suenoctisay&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <h1 style="color: #3D533C;">Soft Skills </h1>
