@@ -1,9 +1,9 @@
-<h1 style="color: #3D533C;">Hey. How are you? <br/>
+<h1>Hey. How are you? <br/>
 Welcome to my GitHub. I'm Suelen and I'm a web developer.</h1> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelen-santos-6281b1190/)
 
-<h1 style="color: #3D533C;">GitHub Status</h1>
+<h1>GitHub Status</h1>
 <div align="left"> 
   <a href="https://github.com/suenoctisay">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suenoctisay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -20,9 +20,3 @@ Welcome to my GitHub. I'm Suelen and I'm a web developer.</h1>
 	<img align="center" alt="MicrodoftSQLServe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 	<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 	<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-
-
-
-
-
