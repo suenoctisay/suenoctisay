@@ -20,3 +20,5 @@ Welcome to my GitHub. I'm Suelen and I'm a web developer.</h1>
 	<img align="center" alt="MicrodoftSQLServe" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 	<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 	<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	
+![Snake animation](https://github.com/Gabrielhyds/Gabrielhyds/blob/output/github-contribution-grid-snake.svg)
