@@ -1,5 +1,5 @@
-<h1>Hey. How are you? <br/>
-Welcome to my GitHub. I'm Suelen and I'm a web developer.</h1> 
+<h1>hey. how are you? <br/>
+welcome to my GitHub. i'm Suelen and here is some works i've done.</h1> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suelen-santos-6281b1190/)
 
