@@ -1,5 +1,5 @@
 <h1>hey there. how are you? <br>
-welcome to my GitHub. i'm Suelen and i work with software development (front-end).</h1> 
+welcome to my GitHub. i'm Suelen and i'm front-end developer</h1> 
 
 <div align="center"> 
   <a href="https://github.com/suenoctisay">
